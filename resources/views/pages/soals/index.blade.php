@@ -29,7 +29,7 @@
                 </div>
                 <h2 class="section-title">Soal</h2>
                 <p class="section-lead">
-                    You can manage all Users, such as editing, deleting and more.
+                    You can manage all Soal, such as editing, deleting and more.
                 </p>
 
 
